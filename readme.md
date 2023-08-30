@@ -15,9 +15,9 @@
 <description>
 
 基于 Node.js 平台，快速、开放、极简的 Web 开发框架（部署到Custom运行时）
-workspace：code
-start command：node index.js
-port：9000
+/nworkspace：code
+/nstart command：node index.js
+/nport：9000
 
 </description>
 
