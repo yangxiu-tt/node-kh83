@@ -15,9 +15,8 @@
 <description>
 
 基于 Node.js 平台，快速、开放、极简的 Web 开发框架（部署到Custom运行时）
-/nworkspace：code
-/nstart command：node index.js
-/nport：9000
+
+
 
 </description>
 
@@ -29,6 +28,9 @@
 | 服务/业务 | 函数计算 |     
 | --- |  --- |   
 | 权限/策略 | AliyunFCFullAccess |  
+|workspace|code|
+|start command|node index.js|
+|port|9000|
 
 </table>
 
